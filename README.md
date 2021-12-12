@@ -1,2 +1,2 @@
 #penduInC
-C'et tout !
+C'est tout !
