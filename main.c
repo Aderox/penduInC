@@ -316,5 +316,5 @@ void startGame(char *mot)
             coup(mot, found, sizeofWord, &nbCoup, lettre);
         }
     }
-    printf("game over: bad ending saddam hussen");
+    printf("game over");
 }
